@@ -33,3 +33,4 @@ Notes and usage details for mcp-1panel.
 - add a note about the defaults
 - clarify the setup steps
 - link the usage section
+- link the usage section
